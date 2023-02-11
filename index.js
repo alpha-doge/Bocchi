@@ -1,4 +1,5 @@
 // Challenge 2:
+console.log("okay")
 // Replace the arguments below according to your preference.
 
 // space, scary, military, romantic, cowboy, fantasy, superhero
