@@ -82,7 +82,7 @@ function favouriteFruit(theme) {
         setProp('--light', "#41a8f9")
         setProp('--dark', "#064490")
     }else if (theme === "bocchi"){
-        setProp('--light', "pink")
+        setProp('--light', "#FFC0CB")
         setProp('--dark', "#064490")
     }
     
